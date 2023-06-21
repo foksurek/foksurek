@@ -1,7 +1,7 @@
 <h1>C# backend developer</h1>
 
 - currenyly working on [osu!Utopia private osu server](https://borsuq.xyz/)
-- several projects that I cannot show for legal reasons (Desktop, mobile apps and websites)
+- several projects that I cannot show for legal reasons (Desktop apps, mobile apps and websites)
 - still learing
 
 ### open for commission
