@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👀 Interest in programming from 2019<br>📚 Still learning...</p>
+<p align="left">👀 Interest in programming since 2019<br>📚 Still learning...</p>
 
 ###
 
