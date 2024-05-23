@@ -4,7 +4,7 @@
 
 👀 Interest in programming since 2019  
 📚 Still learning...  
-💻 Main developer of [BanchoNET](https://github.com/NovemoG/BanchoNET)
+
 
 ## Languages and Tools
 
