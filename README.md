@@ -3,7 +3,7 @@
 ## About me
 
 👀 Interest in programming since 2019  
-📚 Curenttly learning c++
+📚 Curenttly learning c++  
 🔧 Mainly working in private repos (maybe one day I'll publish them)
 
 
