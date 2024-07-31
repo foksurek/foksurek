@@ -3,9 +3,8 @@
 ## About me
 
 👀 Interest in programming since 2019  
-📚 Curenttly learning c++  
-🔧 Mainly working in private repos (maybe one day I'll publish them)
-
+🔧 Mainly working in private repos (maybe one day I'll publish them)  
+✔ Main developer of [BanchoNET](https://github.com/NovemoG/BanchoNET)
 
 ## Languages and Tools
 
