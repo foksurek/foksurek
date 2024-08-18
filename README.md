@@ -2,6 +2,8 @@
 
 ## About me
 
+Naturally ambitious, I currently studying at the Electrical Technical School in Gorzów Wielkopolski. Passionate about crafting efficient solutions, I draw inspiration from my education and seek constant growth. I'm perpetually exploring innovative approaches to enhance my solutions, viewing each project as a gateway to new horizons in software development.
+
 👀 Interest in programming since 2019  
 🔧 Mainly working in private repos (maybe one day I'll publish them)  
 ✔ Main developer of [BanchoNET](https://github.com/NovemoG/BanchoNET)
