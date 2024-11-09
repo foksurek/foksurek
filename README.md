@@ -6,7 +6,7 @@ Naturally ambitious, I currently studying at the Electrical Technical School in 
 
 👀 Interest in programming since 2019  
 🔧 Mainly working in private repos (maybe one day I'll publish them)  
-✔ Main developer of [BanchoNET](https://github.com/NovemoG/BanchoNET)
+✔ Currently working on something cool 👌
 
 ## Languages and Tools
 
